@@ -2,7 +2,7 @@
   "name": "registrationapp",
   "version": "1.0.0",
   "description": "RegistrationApp",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "concurrently": "^5.3.0",
